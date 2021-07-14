@@ -374,6 +374,7 @@ ul {
   padding-bottom: 27px;
   position: relative;
   bottom: 70px;
+  font-weight: 700;
 }
 .picture-explane-wrap {
   font-size: 14px;
@@ -611,13 +612,12 @@ ul {
   top: 50%;
   transform: translate(-50%, -50%);
 }
-
 .close-btn {
   width: 30px;
   height: 30px;
   background: #ffffff;
-  right: 13px;
-  top: 13px;
+  right: 8px;
+  top: 8px;
   position: absolute;
 }
 .backdrop.is-hidden {
